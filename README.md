@@ -24,7 +24,7 @@ Follow the instructions below to run the project.
 
 ### Running the Hand Gesture Recognition
 ```bash
-python hand_gesture.py
+Face Detection with MediaPipe.py
 ```
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
